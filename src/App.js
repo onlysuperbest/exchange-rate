@@ -54,9 +54,9 @@ function App() {
       <thead>
           <tr>
           <th>#</th>
-          <th>Currency</th>
-          <th>Rate</th>
-          <th>Actions</th>
+          <th>Waluta</th>
+          <th>Wskaźnik</th>
+          <th>Działania</th>
           </tr>
       </thead>
       <tbody>
